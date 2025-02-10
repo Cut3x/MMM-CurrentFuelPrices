@@ -8,7 +8,7 @@ Module.register("MMM-CurrentFuelPrices", {
    * Apply the default styles.
    */
   getStyles() {
-    return ["CurrentFuelPrices.css"]
+    return ["currentfuelprices.css"]
   },
 
   /**
