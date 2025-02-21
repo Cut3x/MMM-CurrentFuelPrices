@@ -1,7 +1,7 @@
 {
   "name": "mmm-currentfuelprices",
   "version": "1.0.0",
-  "description": "shows the current fuel prices in a spezific range",
+  "description": "shows the current fuel prices in a specific range",
   "main": "MMM-CurrentFuelPrices.js",
   "scripts": {
     "lint": "eslint .",
